@@ -14,6 +14,8 @@ as well as which column contains your text samples.
 This script does the same as the one above it, but puts all .txt files into subfolders with a maximum number 
 of files in any given folder set to 20,000. Use this for extremely large datasets so that you don't get folder bloat.
 
+#### Python 3.x Scripts
+Both of the scripts above have python 3.x versions (noted with - py3 in the filenames). The python 3.x versions are recommended, as they are much better at handling text encodings.
 
 ### R Scripts
 
