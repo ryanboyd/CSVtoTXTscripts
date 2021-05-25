@@ -2,7 +2,7 @@
 Get text out of CSV files and into TXT files
 
 ## Use
-This is a pretty basic collection of scripts that will dump texts out of CSV files and into TXT files. If you're looking for a GUI-driven program to do the same, you might want to check out EZPZTXT: https://ezpztxt.ryanb.cc
+This is a pretty basic collection of scripts that will dump texts out of CSV files and into TXT files. If you're looking for a GUI-driven program to do the same, you might want to check out EZPZTXT: https://www.ryanboyd.io/software/ezpztxt
 
 ### Python Scripts
 
